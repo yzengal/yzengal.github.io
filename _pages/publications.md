@@ -5,19 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="{{ author.dblp }}">my dblp profile</a> or <a href="{{ author.googlescholar }}">my Google Scholar profile</a>.
+You can find my publications on <a href="{{ author.dblp }}">my dblp profile</a> or <a href="{{ author.googlescholar }}">my Google Scholar profile</a>.
 
 ## Conference Papers
+1. Yuxiang Zeng, Yongxin Tong, Lei Chen.
+"HST+: An Efficient Index for Embedding Arbitrary Metric Spaces." 
+IEEE International Conference on Data Engineering (**ICDE**), 2021.
+[PDF (to appear)]
+[Slides (to appear)]
+[Code&Data (to appear)]
+
 1. Yuxiang Zeng, Yongxin Tong, Yuguang Song, Lei Chen.
 "The Simpler The Better: An Indexing Approach for Shared-Route Planning Queries." 
-International Conference on Very Large Data Bases (**VLDB**), 2020.
+International Conference on Very Large Data Bases (**VLDB**), 2021.
 [[PDF](http://www.vldb.org/pvldb/vol13/p3517-zeng.pdf)]
-[Slides (To appear)]
-[Code&Data (To appear)]
+[Slides (to appear)]
+[Code&Data (to appear)]
 
 1. Yuxiang Zeng, Yongxin Tong, Lei Chen.
 "Last-Mile Delivery Made Practical: An Efficient Route Planning Framework with Theoretical Guarantees."
-International Conference on Very Large Data Bases (**VLDB**), 2019. 
+International Conference on Very Large Data Bases (**VLDB**), 2020. 
 [[PDF](http://www.vldb.org/pvldb/vol13/p320-zeng.pdf)]
 [[Slides](https://github.com/BUAA-BDA/ridesharing-LMD/blob/master/VLDB20-LMD-github.ppsx)]
 [[Code&Data](https://github.com/BUAA-BDA/ridesharing-LMD)]
@@ -59,6 +66,12 @@ The VLDB Journal, 29(1): 217-250, 2020.
 IEEE Transactions on Knowledge and Data Engineering, 2020.
 [[PDF](http://yongxintong.group/static/paper/2020/TKDE2020_Two-Sided%20Online%20Micro-Task%20Assignment%20in%20Spatial%20Crowdsourcing.pdf)]
 [[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-GOMA)]
+
+1. Yiming Li, Jingzhi Fang, Yuxiang Zeng, Balz Maag, Yongxin Tong, Lingyu Zhang.
+"Two-sided online bipartite matching in spatial data: experiments and analysis." 
+GeoInformatica 24(1): 175-198, 2020.
+[[PDF](http://yongxintong.group/static/paper/2020/GEIN2020_Two-sided%20Online%20Bipartite%20Matching%20in%20Spatial%20Data_Experiments%20and%20Analysis.pdf)]
+[[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-TOBM)]
 
 1. Yansheng Wang, Tianshu Song, Qian Tao, Yuxiang Zeng, Zimu Zhou, Yi Xu, Yongxin Tong, Lei Chen. "Interaction Management in Crowdsourcing."
 IEEE Data Engineering Bulletin, 42(4): 23-34, 2019. 
