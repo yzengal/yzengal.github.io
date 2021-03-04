@@ -7,6 +7,13 @@ author_profile: true
 
 You can find my publications on <a href="{{ author.dblp }}">my dblp profile</a> or <a href="{{ author.googlescholar }}">my Google Scholar profile</a>.
 
+Disclaimers: The materials below have been provided by the author(s) as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the author(s) or by other copyright holders, notwithstanding that they have offered their works here electronically. All persons copying this information should adhere to the terms and constraints invoked by each author's copyright. These materials may not be re-posted without the explicit permission of the copyright holder. Other restrictions to copying individual reports may apply.
+
+_Disclaimers_: The materials below have been provided by the author(s) as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. 
+Copyright and all rights therein are maintained by the author(s) or by other copyright holders, although the electronical work has been provided by the author(s).
+These materials may not be re-distributed without the explicit permission of the copyright holders.
+{: .notice}
+
 ## Conference Papers
 1. Yuxiang Zeng, Yongxin Tong, Lei Chen.
 "HST+: An Efficient Index for Embedding Arbitrary Metric Spaces." 
