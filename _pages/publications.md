@@ -68,7 +68,7 @@ IEEE Transactions on Knowledge and Data Engineering, 2020.
 [[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-GOMA)]
 
 1. Yiming Li, Jingzhi Fang, Yuxiang Zeng, Balz Maag, Yongxin Tong, Lingyu Zhang.
-"Two-sided online bipartite matching in spatial data: experiments and analysis." 
+"Two-sided Online Bipartite Matching in Spatial Data: Experiments and Analysis." 
 GeoInformatica 24(1): 175-198, 2020.
 [[PDF](http://yongxintong.group/static/paper/2020/GEIN2020_Two-sided%20Online%20Bipartite%20Matching%20in%20Spatial%20Data_Experiments%20and%20Analysis.pdf)]
 [[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-TOBM)]
