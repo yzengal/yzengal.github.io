@@ -34,11 +34,11 @@ International Conference on Very Large Data Bases (**VLDB**), 2020.
 [[Slides](https://github.com/BUAA-BDA/ridesharing-LMD/blob/master/VLDB20-LMD-github.ppsx)]
 [[Code&Data](https://github.com/BUAA-BDA/ridesharing-LMD)]
 
-1. Boming Zhao, Pan Xu, Yexuan Shi, Yongxin Tong, Zimu Zhou, Yuxiang Zeng.
-"Preference-Aware Task Assignment in On-Demand Taxi Dispatching: An Online Stable Matching Approach." 
-AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
-[[PDF](http://yongxintong.group/static/paper/2019/AAAI2019_Preference-Aware%20Task%20Assignment%20in%20On-demand%20Taxi%20Dispatching_An%20Online%20Stable%20Matching%20Approach_PDF.pdf)]
-[[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-OSM)]
+1. Yuxiang Zeng, Yongxin Tong, Lei Chen, Zimu Zhou. "Latency-Oriented Task Completion via Spatial Crowdsourcing."
+IEEE International Conference on Data Engineering (**ICDE**), 2018. 
+[[PDF](http://yongxintong.group/static/paper/2018/ICDE2018_Latency-oriented%20Task%20Completion%20via%20Spatial%20Crowdsourcing_PDF.pdf)] 
+[[Slides](http://yongxintong.group/static/paper/2018/ICDE18_Latency-oriented%20Task%20Completion%20via%20Spatial%20Crowdsourcing-slides.pptx)] 
+[[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-LTC)]
 
 1. Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu. "A Unified Approach to Route Planning for Shared Mobility."
 International Conference on Very Large Data Bases (**VLDB**), 2018. 
@@ -46,11 +46,11 @@ International Conference on Very Large Data Bases (**VLDB**), 2018.
 [[Slides](http://yongxintong.group/static/paper/2018/VLDB2018_A%20Unified%20Approach%20to%20Route%20Planning%20for%20Shared%20Mobility_Slides.pptx)] 
 [[Code&Data](https://github.com/BUAA-BDA/ridesharing-GreedyDP)]
 
-1. Yuxiang Zeng, Yongxin Tong, Lei Chen, Zimu Zhou. "Latency-Oriented Task Completion via Spatial Crowdsourcing."
-IEEE International Conference on Data Engineering (**ICDE**), 2018. 
-[[PDF](http://yongxintong.group/static/paper/2018/ICDE2018_Latency-oriented%20Task%20Completion%20via%20Spatial%20Crowdsourcing_PDF.pdf)] 
-[[Slides](http://yongxintong.group/static/paper/2018/ICDE18_Latency-oriented%20Task%20Completion%20via%20Spatial%20Crowdsourcing-slides.pptx)] 
-[[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-LTC)]
+1. Boming Zhao, Pan Xu, Yexuan Shi, Yongxin Tong, Zimu Zhou, Yuxiang Zeng.
+"Preference-Aware Task Assignment in On-Demand Taxi Dispatching: An Online Stable Matching Approach." 
+AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
+[[PDF](http://yongxintong.group/static/paper/2019/AAAI2019_Preference-Aware%20Task%20Assignment%20in%20On-demand%20Taxi%20Dispatching_An%20Online%20Stable%20Matching%20Approach_PDF.pdf)]
+[[Code&Data](https://github.com/BUAA-BDA/SpatialCrowdsourcing-OSM)]
 
 1. Qian Tao, Yuxiang Zeng, Zimu Zhou, Yongxin Tong, Lei Chen, Ke Xu. "Multi-Worker-Aware Task Planning in Real-Time Spatial Crowdsourcing."
 International Conference on Database Systems for Advanced Applications (**DASFAA**), 2018. 
