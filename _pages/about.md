@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-========================================
+------------------------------------
 ## Short Biography
 
 Yuxiang Zeng is a Ph.D student in **Computer Science** from [Department of Computer Science and Engineering (CSE)](https://www.cse.ust.hk/), [Hong Kong Univeristy of Science and Technology (HKUST)](https://hkust.edu.hk), under the supervision of Professor [Lei Chen](https://www.cse.ust.hk/~leichen/).
