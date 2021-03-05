@@ -5,8 +5,7 @@ permalink: /datasets/
 author_profile: true
 ---
 
-A collection of real datasets is summarized in the following.
-
+In the following, I collect some interesting real-world datasets in spatial databases.
 
 ## Road Networks
 These real-world road networks were extracted from **OpenStreetMap** on Feb. 2021, based on the processing method in our VLDB'18 paper.
