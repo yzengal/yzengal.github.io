@@ -19,8 +19,9 @@ I also received a Bachelor degree in **Computer Science** from [College of Compu
 ## Research Interests
 - Spatial Databases
 - AI4DB and DB4AI
-- Crowdsourcing
 - Online Algorithms
+- Crowdsourcing
+
 
 ## Contact
 Email: yzengal AT connect.ust.hk
