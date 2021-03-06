@@ -23,6 +23,8 @@ Notice, in these graphs, the unit of distance is meter and the unit of travel ti
 If you want to do shortest distance/path queries on these graphs, I think the VLDB'18 paper named "An Experimental Study on Hub Labeling based Shortest Path Algorithms" from Ye Li et al. could be very useful (see their paper for more details).
 I have revised their source code to fit the double-type of edge weights (the source code is [here](https://github.com/BUAA-BDA/sspexp_clone)).
  
+Large datasets (USA and Chinese provinces) can be downloaded from my [Tencent Cloud](https://share.weiyun.com/70dwzVOX).
+ 
 ### USA 
  
 | Description      | # Vertices | # Edges | Distance graph | Travel time graph | Coordinates |
