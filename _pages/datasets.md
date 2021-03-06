@@ -12,7 +12,6 @@ In the following, I collect some interesting real-world datasets in spatial data
 
 ## Road Networks
 These real-world road networks were extracted from **OpenStreetMap** on Feb. 2021, based on the processing method in our VLDB'18 paper.
-Note that road networks below are much larger than the road networks in [9th DIMACS](http://users.diag.uniroma1.it/challenge9/download.shtml).
 If you want to use the road networks below, please consider citing this homepage and our VLDB'18 paper ([BibTex](https://dblp.uni-trier.de/rec/journals/pvldb/TongZZCYX18.html?view=bibtex)).
 Briefly speaking, the datasets are obtained based on the following steps.
 
@@ -22,16 +21,16 @@ Briefly speaking, the datasets are obtained based on the following steps.
 
 Notice, in these graphs, the unit of distance is meter and the unit of travel time is second.
 If you want to do shortest distance/path queries on these graphs, I think the VLDB'18 paper named "An Experimental Study on Hub Labeling based Shortest Path Algorithms" from Ye Li et al. could be very useful (see their paper for more details).
-I have revised their source code to fit the double-type of edge weights ([our code](https://github.com/BUAA-BDA/sspexp_clone) is here).
+I have revised their source code to fit the double-type of edge weights (the source code is [here](https://github.com/BUAA-BDA/sspexp_clone)).
  
 ### USA 
  
 | Description      | # Vertices | # Edges | Distance graph | Travel time graph | Coordinates |
 | --------         | ---------- | ------- | -------------- | ----------------- | ----------- |
-| California | 16,129,269 | 34,333,910 | [Cali*.road-d (864 MB)](California.road-d.tar.gz) | [Cali*.road-t (845 MB)](California.road-t.tar.gz) | [Cali*.co (338 MB)](California.co.tar.gz) |
-| Florida | 9,303,268 | 20,249,786 | [Flor*.road-d (493 MB)](Florida.road-d.tar.gz) | [Flor*.road-t (482 MB)](Florida.road-t.tar.gz) | [Flor*.co (186 MB)](Florida.co.tar.gz) |
-| New York | 6,959,649 | 14,675,944 | [Newy*.road-d (357 MB)](Newyork.road-d.tar.gz) | [Newy*.road-t (348 MB)](Newyork.road-t.tar.gz) | [Newy*.co (139 MB)](Newyork.co.tar.gz) |
-| Colorado | 5,118,452 | 10,799,592 | [Colo*.road-d (261 MB)](Colorado.road-d.tar.gz) | [Colo*.road-t (255 MB)](Colorado.road-t.tar.gz) | [Colo*.co (107 MB)](Colorado.co.tar.gz) |
+| California | 16,129,269 | 34,333,910 | [Cali*.road-d (864 MB)](https://github.com/yzengal/RoadNetwork-USA-Part2/blob/main/California.road-d.tar.gz) | [Cali*.road-t (845 MB)](https://github.com/yzengal/RoadNetwork-USA-Part2/blob/main/California.road-t.tar.gz) | [Cali*.co (338 MB)](https://github.com/yzengal/RoadNetwork-USA-Part2/blob/main/California.co.tar.gz) |
+| Florida | 9,303,268 | 20,249,786 | [Flor*.road-d (493 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Florida.road-d.tar.gz) | [Flor*.road-t (482 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Florida.road-t.tar.gz) | [Flor*.co (186 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Florida.co.tar.gz) |
+| Newyork | 6,959,649 | 14,675,944 | [Newy*.road-d (357 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Newyork.road-d.tar.gz) | [Newy*.road-t (348 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Newyork.road-t.tar.gz) | [Newy*.co (139 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Newyork.co.tar.gz) |
+| Colorado | 5,118,452 | 10,799,592 | [Colo*.road-d (261 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Colorado.road-d.tar.gz) | [Colo*.road-t (255 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Colorado.road-t.tar.gz) | [Colo*.co (107 MB)](https://github.com/yzengal/RoadNetwork-USA/blob/main/Colorado.co.tar.gz) |
 
 ### China (Cities)
  
@@ -53,7 +52,7 @@ I have revised their source code to fit the double-type of edge weights ([our co
 
 | Description      | # Vertices | # Edges | Distance graph | Travel time graph | Coordinates |
 | --------         | ---------- | ------- | -------------- | ----------------- | ----------- |
-| Sichuan | 3,398,810 | 6,960,562 | [Sich*.road-d (168 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Sichuan.road-d.tar.gz) | [Sich*.road-t (162 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Sichuan.road-t.tar.gz) | [Sich*.co (67 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Sichuan.co.tar.gz) |
+| Sichuan | 3,398,810 | 6,960,562 | [Sich*.road-d (168 MB)](https://github.com/yzengal/RoadNetwork-China-Province-Part2/blob/main/Sichuan.road-d.tar.gz) | [Sich*.road-t (162 MB)](https://github.com/yzengal/RoadNetwork-China-Province-Part2/blob/main/Sichuan.road-t.tar.gz) | [Sich*.co (67 MB)](https://github.com/yzengal/RoadNetwork-China-Province-Part2/blob/main/Sichuan.co.tar.gz) |
 | Guangdong | 2,898,023 | 6,143,156 | [Guan*.road-d (148 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Guangdong.road-d.tar.gz) | [Guan*.road-t (142 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Guangdong.road-t.tar.gz) | [Guan*.co (58 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Guangdong.co.tar.gz) |
 | Hebei | 2,313,690 | 4,976,158 | [Hebe*.road-d (119 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Hebei.road-d.tar.gz) | [Hebe*.road-t (115 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Hebei.road-t.tar.gz) | [Hebe*.co (46 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Hebei.co.tar.gz) |
 | Zhejiang | 2,304,979 | 4,853,370 | [Zhej*.road-d (116 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Zhejiang.road-d.tar.gz) | [Zhej*.road-t (111 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Zhejiang.road-t.tar.gz) | [Zhej*.co (46 MB)](https://github.com/yzengal/RoadNetwork-China-Province/blob/main/Zhejiang.co.tar.gz) |
@@ -76,4 +75,4 @@ I have revised their source code to fit the double-type of edge weights ([our co
 
 ## Urban Logistics
 
-This dataset is under maintenance.
+The datasets are under maintenance.
