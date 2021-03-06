@@ -8,7 +8,7 @@ author_profile: true
 In the following, I collect some interesting real-world datasets in spatial databases.
 
 {% include base_path %}
-{% include toc %}
+{% include toc.html sanitize=true html=content h_min=2 h_max=3 class="toc__menu" skip_no_ids=true %}
 
 ## Road Networks
 These real-world road networks were extracted from **OpenStreetMap** on Feb. 2021, based on the processing method in our VLDB'18 paper.
