@@ -5,7 +5,10 @@ permalink: /recommended/
 author_profile: true
 ---
 
-In the following, I want to share my recommended books during years 2014-2017 (i.e., from my master period  to present).
+{% include base_path %}
+{% include toc %}
+
+In the following, I want to share my recommended books during years 2014-2021 (i.e., from my master period  to present).
 
 
 ## Math
