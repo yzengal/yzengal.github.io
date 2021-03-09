@@ -18,9 +18,9 @@ I also received a Bachelor degree in **Computer Science** from [College of Compu
  
 ## Research Interests
 - Spatial Databases
-- AI4DB and DB4AI
-- Online Algorithms
+- AI4DB
 - Crowdsourcing
+- Online Algorithms
 
 
 ## Contact

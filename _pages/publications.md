@@ -86,4 +86,5 @@ IEEE Data Engineering Bulletin, 42(4): 23-34, 2019.
 ## Short Papers and System Demontrations
 1. Siyuan Han, Zihuan Xu, **Yuxiang Zeng**, Lei Chen. "Fluid: A Blockchain based Framework for Crowdsourcing." 
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), 2019.
+[[PDF](https://doi.org/10.1145/3299869.3320238)]
 
